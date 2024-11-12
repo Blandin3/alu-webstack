@@ -35,7 +35,7 @@ defaults
 
 frontend clickviral-tech-frontend
     bind *:80
-    bind *:443 ssl crt /etc/ssl/private/www.bonasolutions.tech.pem
+    bind *:443 ssl crt /etc/ssl/private/www.blandine.tech.pem
     mode http
 
     # Redirect HTTP to HTTPS
